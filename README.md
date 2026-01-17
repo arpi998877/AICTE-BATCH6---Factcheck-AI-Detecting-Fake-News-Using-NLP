@@ -1,0 +1,2 @@
+# AICTE-BATCH6---Factcheck-AI-Detecting-Fake-News-Using-NLP
+This project focuses on building **Factcheck AI**, a simple and effective system to detect fake news using **Natural Language Processing (NLP)** and **machine learning**. It analyzes news text, converts it into numerical features using TF-IDF, and classifies it as real or fake. The project helped me gain practical experience in Python, NLP..
